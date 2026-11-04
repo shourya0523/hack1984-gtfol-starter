@@ -57,7 +57,12 @@ Starter app for the **HACK1984 GTFOL** workshop (get the f\*ck off localhost), S
 
 5. `git add -A && git commit -m "runs" && git push`. Vercel redeploys on its own, and the page starts listing runs.
 
-Behind? `git checkout checkpoint-2` has this file already.
+Behind? Pull the finished version into your fork, then push:
+
+```bash
+git pull https://github.com/shourya0523/hack1984-gtfol-starter checkpoint-2
+git push
+```
 
 ## Checkpoint 3: evict the local model
 
