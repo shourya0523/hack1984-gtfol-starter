@@ -1,0 +1,22 @@
+{
+  "name": "hack1984-gtfol-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HACK1984 GTFOL starter: a tiny Next.js app you deploy to Vercel, connect to Neon, and point at a hosted model.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.0",
+    "next": "^15.5.29",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "typescript": "^5.9.3"
+  }
+}
