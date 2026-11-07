@@ -9,6 +9,8 @@ Starter app for the **HACK1984 GTFOL** workshop (get the f\*ck off localhost), S
 
 ## Checkpoint 1: get a URL
 
+**Fastest:** [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshourya0523%2Fhack1984-gtfol-starter&project-name=hack1984-gtfol-starter) copies this repo into your GitHub and deploys it in one go. Or do it by hand:
+
 1. Fork this repo.
 2. Go to [vercel.com/new](https://vercel.com/new) and import your fork.
 3. Hit **Deploy**. Don't change anything.
